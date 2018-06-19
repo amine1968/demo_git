@@ -3,4 +3,5 @@
 Une demo de git qui se passe bien
 modif
 
-depui ma machine
+depuis ma machine
+une autre correction
